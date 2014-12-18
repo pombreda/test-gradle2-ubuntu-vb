@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.gradle.webservice.TestTestTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2014-12-16T17:10:51" hostname="roy-Ubuntu-VB" time="0.028">
-  <properties/>
-  <testcase name="testApiCompileClasspath" classname="org.gradle.webservice.TestTestTest" time="0.003"/>
-  <testcase name="testClasspath" classname="org.gradle.webservice.TestTestTest" time="0.024"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

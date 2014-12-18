@@ -1,7 +1,0 @@
--classpath '/home/roy/work/project-examples/gradle2-example/shared/build/classes/main:/home/roy/work/project-examples/gradle2-example/shared/build/resources/main'
--d '/home/roy/work/project-examples/gradle2-example/shared/build/docs/javadoc'
--doctitle 'shared 1.0-20141216150743 API'
--quiet 
--windowtitle 'shared 1.0-20141216150743 API'
-'/home/roy/work/project-examples/gradle2-example/shared/src/main/java/org/gradle/shared/Person.java'
-'/home/roy/work/project-examples/gradle2-example/shared/src/main/java/org/gradle/shared/package-info.java'
